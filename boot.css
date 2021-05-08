@@ -1,0 +1,43 @@
+body{
+    background-image: url("white.jpg");
+    font-family: 'Roboto', sans-serif;;
+}
+.btn{
+margin-right: 45px;
+}
+.nav-item{
+    margin-right: 15px;
+}
+.txt{
+    font-size: 60px;
+    text-align: center;
+    padding-top: 5%;
+    color: rgb(35, 57, 124);
+}
+.txt2{
+    font-size: 20px;
+    text-align: center;
+}
+.txt3{
+    background-color: rgb(35, 57, 124); 
+    color: white;
+    border-color: rgb(35, 57, 124);
+    margin-bottom: 3%;
+}
+.card{
+    height:80%;
+}
+.c1{
+    padding-bottom: 50px;
+    margin-bottom: 15%;
+}
+.cont{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.fa-fingerprint, .fa-bahai, .fa-palette, .fa-layer-group{
+    color:rgb(35, 57, 124);
+    font-size:30px;
+    padding-bottom:5%;
+}
